@@ -1,3 +1,3 @@
 ## 1. 简介
 
-![x](https://kukela-images.oss-cn-shanghai.aliyuncs.com/WaterAirPurifier/1.jpg)
+![x](img/1.jpg)
